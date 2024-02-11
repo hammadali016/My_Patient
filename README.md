@@ -1,1 +1,1 @@
-# My_Patient
+# MyPatient
